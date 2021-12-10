@@ -12,4 +12,4 @@
 
 ### 예제
 #### 2장
-[Hello Vue.js](https://github.com/areummy/Doit-vuejs/blob/main/02/index.html)
+   1. [Hello Vue.js](https://github.com/areummy/Doit-vuejs/blob/main/02/index.html)
