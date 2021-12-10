@@ -1,6 +1,6 @@
 # Do it! Vue.js
 
-### 목차
+# 목차
 ##### 01.vue.js소개
 ##### 02.개발환경 설정 및 첫번째 프로젝트
 ##### 03.화면을 개발하기 위한 필수 단위
@@ -10,6 +10,6 @@
 ##### 07.vue.js고극 개발자 되기
 
 
-### 예제
+# 코드
 #### 2장
    1. [Hello Vue.js](https://github.com/areummy/Doit-vuejs/blob/main/02/index.html)
